@@ -5,7 +5,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Big Data Engineer at **Data Labs Analytics**, with 2+ years in enterprise data platforms.
+- 💼 Big Data Engineer at **Data Labs Analytics**, with 3+ years in enterprise data platforms.
 - ⚡ Specialized in **Cloudera CDP Private Cloud Base** deployment, upgrades, and administration.
 - 🔐 Skilled in **Kerberos, Ranger, TLS security** for production-grade clusters.
 - 🏦 Hands-on experience supporting data platforms for **major banks & government institutions** (BCA, BRI, Mandiri, UOB, KPDJP).
